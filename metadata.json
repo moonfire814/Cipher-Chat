@@ -1,0 +1,6 @@
+{
+  "name": "CipherChat",
+  "description": "Aesthetic encrypted messenger with customizable themes, AES-256 E2EE, seamless photo sharing, and hidden privacy vault.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
